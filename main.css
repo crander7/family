@@ -1,0 +1,78 @@
+html, body {
+  background: url(./img/A1-31.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.heading {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  height: 10%;
+}
+
+.heading > p {
+  font-size: 60px;
+  font-family: cursive;
+  color: #4B515D;
+  text-align: center;
+}
+
+.family {
+  position: absolute;
+  width: 100%;
+}
+
+.faces {
+  position: absolute;
+}
+
+.aye {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  background: black;
+  position: relative;
+  left: 235px;
+  top: 180px;
+}
+
+.jadyn {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  background: red;
+  position: relative;
+  left: 530px;
+  top: 150px;
+}
+
+.nathan {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  background: purple;
+  position: relative;
+  left: 735px;
+  top: 177px;
+}
+
+.christine {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  background: teal;
+  position: relative;
+  left: 935px;
+  top: 180px;
+}
+
+.craig {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  background: green;
+  position: relative;
+  left: 1235px;
+  top: 180px;
+}
